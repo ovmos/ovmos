@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **m.owais.s553@gmail.com**
+- 📫 How to reach me: **m.owais.s553@gmail.com**
 
-- ⚡ Fun fact **Creeper, the first Virus**
+- ⚡ Fun fact: **Creeper, the first Virus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
